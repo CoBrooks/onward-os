@@ -21,6 +21,12 @@ Broken down into actionable steps, this can be achieved through the following ta
 - [ ] Port some programs to test out the system
   + Ideas: One of the simpler `coreutils` tools, tetris, ...
 
+## Building / Running
+
+```sh
+make run # Builds the disk image (build/boot.img) and runs QEMU
+```
+
 ## Architecture
 
 Here's a rough sketch of the architecture as of writing this:
