@@ -1,8 +1,7 @@
 # Onward!
 
 A 64-bit forth-based operating system loosely inspired by [Dusk OS](http://duskos.org/)
-and the Forth concept of users *creating* not just systems to fit their needs, but
-an entire language, rather than tweaking an existing solution.
+and the Forth concept of users creating new languages to perform specific tasks.
 
 ## Goals
 
